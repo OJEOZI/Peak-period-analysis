@@ -1,2 +1,2 @@
 # Peak-period-analysis
-Understanding what period of the day various products sell most.
+Understanding what periods of the day various products sell most.
